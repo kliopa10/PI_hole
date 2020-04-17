@@ -1,0 +1,8 @@
+###My PI_hole blocklist / Viber Ad-Block ###
+
+0.0.0.0 ads.viber.com
+0.0.0.0 ads.aws.viber.com
+0.0.0.0 ads-d.viber.com
+0.0.0.0 s-bid.rmp.rakuten.com
+0.0.0.0 ads.cdn.viber.com
+0.0.0.0 locp-ir.viber.com
